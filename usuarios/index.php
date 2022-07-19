@@ -7,5 +7,6 @@
         'seguidores' => '100',
         'seguindo' => '10'
     ];
+
     echo json_encode($usuarios)
 ?>
